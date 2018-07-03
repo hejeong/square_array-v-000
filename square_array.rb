@@ -1,3 +1,4 @@
+* using .each method
 def square_array(array)
   # your code here
   new_array = []
@@ -6,3 +7,4 @@ def square_array(array)
   end
   return new_array
 end
+*//
